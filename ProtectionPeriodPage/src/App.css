@@ -1,0 +1,120 @@
+body {
+  background: rgb(23, 22, 22);
+}
+
+.header {
+  line-height: 0px;
+  padding-left: 1rem;
+  padding-top: 1rem;
+  max-width: 35%;
+}
+.links {
+  color: white;
+  line-height: 10px;
+}
+.links:hover {
+  color: #00ff67;
+}
+.About {
+  font-size: 17px;
+  color: white;
+  min-width: 120px;
+}
+.About1 {
+  font-family: "Roboto_Mono variant0", Tofu;
+  font-weight: 800;
+  font-size: larger;
+  width: 98%;
+  min-height: 100px;
+  border-width: 4px;
+  border-radius: 10px;
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+  margin-left: -0.7rem;
+  margin-top: 1rem;
+}
+.About2 {
+  font-family: "Tourney variant0", Tofu;
+  font-weight: bold;
+  color: #567c9f;
+  font-size: 18px;
+  width: 85%;
+  padding-left: 0.5rem;
+  min-height: 100px;
+  background-color: white;
+  margin-left: 2rem;
+  border-radius: 1rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+}
+.About2 .red {
+  color: red;
+}
+.firstH {
+  color: rgb(38 38 179);
+  margin-left: -5px;
+  min-width: 10px;
+  font-family: "Honk variant0", Tofu;
+  font-size: 40px;
+  text-shadow: 2px 2px #efeded;
+}
+.firstH .bonus {
+  font-family: "Honk variant0", Tofu;
+  font-size: 32px;
+  text-shadow: 2px 2px #efeded;
+  color: rgb(165 169 234);
+}
+.secondH {
+  color: rgb(38 38 179);
+  margin-left: 25%;
+  max-width: 30%;
+  font-family: "Honk variant0", Tofu;
+  font-size: 25px;
+  text-shadow: 2px 2px #efeded;
+}
+.secondH .bonus {
+  font-family: "Honk variant0", Tofu;
+  font-size: 25px;
+  text-shadow: 2px 2px #efeded;
+  color: rgb(165 169 234);
+}
+
+.highlt {
+  color: #752489;
+  text-shadow: 0 0 7px #c8d6f2, 0 0 10px #c8d6f2, 0 0 21px #c8d6f2,
+    0 0 42px #c8d6f2, 0 0 82px #c8d6f2, 0 0 92px #c8d6f2, 0 0 102px #c8d6f2,
+    0 0 151px #c8d6f2;
+  font-weight: 8px;
+}
+
+.About3 {
+  font-family: "Tourney variant0", Tofu;
+  font-weight: bold;
+  color: #00410e;
+  font-size: 18px;
+  width: 85%;
+  padding-left: 0.5rem;
+  min-height: 100px;
+  background-color: white;
+  margin-left: 2rem;
+  border-radius: 1rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+  border: 4px solid white;
+}
+.page1 {
+  background-color: #00ff67;
+  padding: 1px 23px 11px 23px;
+  height: 100%;
+  width: 35%;
+  min-height: 100px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  border-radius: 5px;
+}
+.footerImg {
+  height: 53px;
+  width: 154px;
+  margin-left: 30%;
+  margin-top: 1rem;
+}
