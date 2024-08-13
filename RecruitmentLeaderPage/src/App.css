@@ -1,0 +1,116 @@
+body {
+  background-color: rgb(26, 25, 25);
+}
+.recruiment {
+  color: rgb(38 38 179);
+  margin-left: 14px;
+  min-width: 6px;
+  font-family: "Honk variant0", Tofu;
+  font-size: 53px;
+  text-shadow: 2px 2px #efeded;
+}
+.heading {
+  color: rgb(38 38 179);
+  margin-left: 146px;
+  min-width: 10px;
+  font-family: "Honk variant0", Tofu;
+  font-size: 53px;
+  text-shadow: 2px 2px #efeded;
+  margin-top: -47px;
+}
+.meghaphone {
+  height: 257px;
+  width: 286px;
+  position: absolute;
+  padding: 22px;
+  margin: -138px;
+  left: 69px;
+}
+.About {
+  font-size: 17px;
+  color: white;
+  min-width: 120px;
+}
+.About1 {
+  font-family: "Roboto_Mono variant0", Tofu;
+  width: 85%;
+  min-height: 100px;
+  border: solid white;
+  border-width: 4px;
+  border-radius: 10px;
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+  margin-left: 2rem;
+  margin-top: 5rem;
+}
+.middle {
+  color: #076d0c;
+  transition-property: opacity, transform;
+  font-family: "Roboto_Condensed variant0", Tofu;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  font-optical-sizing: auto;
+  opacity: 1;
+  text-shadow: 0 0 7px #1ada13, 0 0 10px #1ada13, 0 0 21px #1ada13,
+    0 0 42px #1ada13, 0 0 82px #1ada13, 0 0 92px #1ada13, 0 0 102px #1ada13,
+    0 0 151px #1ada13;
+}
+
+.datatbl {
+  height: 80%;
+  width: 80%;
+  margin-left: 3rem;
+}
+.highlt {
+  color: #752489;
+  text-shadow: 0 0 7px #2653ab, 0 0 10px #2653ab, 0 0 21px #2653ab,
+    0 0 42px #2653ab, 0 0 82px #2653ab, 0 0 92px #2653ab, 0 0 102px #2653ab,
+    0 0 151px #2653ab;
+  font-weight: 8px;
+}
+.ex {
+  color: #010800;
+  text-shadow: 0 0 7px #049a22, 0 0 10px #049a22, 0 0 21px #049a22,
+    0 0 42px #049a22, 0 0 82px #049a22, 0 0 92px #049a22, 0 0 102px #049a22,
+    0 0 151px #049a22;
+  font-weight: 8px;
+}
+
+.About2 {
+  font-family: "Tourney variant0", Tofu;
+  font-weight: bold;
+  color: #083f75;
+  font-size: 17px;
+  width: 85%;
+  padding-left: 0.5rem;
+  min-height: 100px;
+  background-color: white;
+  margin-left: 2rem;
+  border-radius: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.page1 {
+  background-color: #00ff67;
+  padding: 1px 23px 11px 23px;
+  height: 100%;
+  width: 35%;
+  min-height: 100px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  border-radius: 2px;
+}
+.footerImg {
+  height: 53px;
+  width: 154px;
+  margin-left: 30%;
+  margin-top: 1rem;
+}
+.boys {
+  position: absolute;
+  margin-left: 28%;
+  height: 143px;
+  width: 123px;
+  top: 1rem;
+}
