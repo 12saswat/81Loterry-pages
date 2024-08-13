@@ -1,0 +1,107 @@
+body {
+  background-color: rgb(26, 25, 25);
+}
+.coins {
+  position: absolute;
+  top: 1rem;
+  width: 500px;
+  opacity: 30;
+  padding: 0px 10px 0px 10px;
+}
+
+.heading {
+  color: rgb(38 38 179);
+  margin-left: 19px;
+  min-width: 10px;
+  font-family: "Honk variant0", Tofu;
+  font-size: 60px;
+  text-shadow: 2px 2px #efeded;
+  position: relative;
+}
+.About {
+  font-size: 17px;
+  color: white;
+  min-width: 120px;
+  font-weight: 500;
+  position: relative;
+}
+.About1 {
+  font-family: "Roboto_Mono variant0", Tofu;
+  width: 85%;
+  min-height: 100px;
+  border: solid white;
+  border-width: 4px;
+  border-radius: 10px;
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  font-weight: 700;
+}
+.About2 {
+  font-family: "Tourney variant0", Tofu;
+  font-weight: bold;
+  color: #083f75;
+  font-size: 17px;
+  width: 85%;
+  padding-left: 0.5rem;
+  min-height: 100px;
+  background-color: white;
+  margin-top: 4rem;
+  margin-left: 2rem;
+  border-radius: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.page1 {
+  background-color: #00ff67;
+  padding: 1px 5px 11px 7px;
+  height: 100%;
+  width: 35%;
+  min-height: 100px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  border-radius: 2px;
+}
+.footerImg {
+  height: 53px;
+  width: 154px;
+  margin-left: 30%;
+  margin-top: 1rem;
+}
+
+.Rule {
+  height: 115px;
+  width: 107px;
+  min-width: 100px;
+  position: absolute;
+  margin-left: 11%;
+  margin-top: -58px;
+}
+.Rule2 {
+  height: 115px;
+  width: 107px;
+  position: absolute;
+  margin-left: 11%;
+  margin-top: -26px;
+}
+table {
+  margin: 30px 0px 0px 63px;
+  text-align: center;
+  min-width: 50px;
+}
+tr th {
+  border-bottom: 5px solid rgb(251, 250, 247);
+  font-weight: 1000;
+  font-size: 25px;
+  margin: 20px;
+  height: 10px;
+}
+tr td {
+  font-size: 20px;
+
+  font-weight: 800;
+
+  margin: 20px;
+  height: 10px;
+}
