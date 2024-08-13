@@ -1,0 +1,60 @@
+body {
+  background-color: #181e25;
+  color: white;
+  padding: 0px;
+  margin: 0px;
+  min-width: 20%;
+}
+.arrow {
+  height: 25px;
+  width: 31px;
+  align-items: center;
+  line-height: 1rem;
+  padding: 1rem 0rem 0rem 1rem;
+}
+.heading {
+  font-size: 18px;
+  margin-bottom: 10px;
+  min-width: 20px;
+  min-height: 10px;
+}
+.page9 {
+  background-color: black;
+  width: 600px;
+  height: 700px;
+  border-radius: 10px;
+  padding-top: 0px;
+}
+.middleP {
+  background-color: #181e25;
+  width: 550px;
+  margin-left: 1.3rem;
+  border-radius: 8px;
+  padding-top: 0.5rem;
+  font-size: 17px;
+  font-weight: 300;
+  opacity: 0.8;
+}
+
+.Imgs {
+  height: 29px;
+  width: 81px;
+}
+table td {
+  border-bottom: 0.1px solid white;
+  border-radius: 5px;
+}
+table tr th {
+  background-color: #080808;
+  height: 30px;
+}
+.mdlup {
+  padding-left: 1rem;
+}
+.mdldn {
+  background-color: #080808;
+  width: 90%;
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+}
