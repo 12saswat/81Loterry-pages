@@ -1,0 +1,101 @@
+body {
+  background: rgb(26, 25, 25);
+}
+.heading {
+  color: #55209f;
+  margin-left: 19px;
+  min-width: 10px;
+  font-family: "Honk variant0", Tofu;
+  font-size: 60px;
+  text-shadow: 4px 5px #e5b8e4;
+  margin: 10px 0px -11px 32px;
+}
+.header p {
+  line-height: 20px;
+}
+.firstP {
+  width: 69%;
+  margin-left: 11%;
+}
+.theli {
+  position: absolute;
+  height: 118px;
+  width: 121px;
+  min-height: 90px;
+  min-width: 90px;
+  margin-left: 24%;
+  top: 213px;
+}
+
+.About {
+  font-size: 17px;
+  color: white;
+  min-width: 120px;
+}
+.About1 {
+  font-family: "Roboto_Mono variant0", Tofu;
+  width: 85%;
+  min-height: 100px;
+  border: solid white;
+  border-width: 4px;
+  border-radius: 15px;
+  padding: 0.2rem 0.2rem 0.2rem 0.2rem;
+  margin-left: 2rem;
+  margin-top: 1rem;
+}
+
+.highlt {
+  color: #752489;
+  text-shadow: 0 0 7px #2653ab, 0 0 10px #2653ab, 0 0 21px #2653ab,
+    0 0 42px #2653ab, 0 0 82px #2653ab, 0 0 92px #2653ab, 0 0 102px #2653ab,
+    0 0 151px #2653ab;
+  font-weight: 8px;
+}
+.ex {
+  color: #010800;
+  text-shadow: 0 0 7px #049a22, 0 0 10px #049a22, 0 0 21px #049a22,
+    0 0 42px #049a22, 0 0 82px #049a22, 0 0 92px #049a22, 0 0 102px #049a22,
+    0 0 151px #049a22;
+  font-weight: 8px;
+}
+
+.About2 {
+  font-family: "Tourney variant0", Tofu;
+  font-weight: bold;
+  color: #0b8d2c;
+  font-size: 17px;
+  width: 85%;
+  padding-left: 0.5rem;
+  min-height: 100px;
+  background-color: white;
+  margin-left: 2rem;
+  border-radius: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-top: 3rem;
+}
+.page1 {
+  background-color: #00ff67;
+  padding: 1px 23px 11px 23px;
+  height: 100%;
+  width: 35%;
+  min-height: 100px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  border-radius: 2px;
+}
+.footerImg {
+  height: 53px;
+  width: 154px;
+  margin-left: 30%;
+  margin-top: 1rem;
+}
+
+.termsimg {
+  height: 65px;
+  width: 167px;
+  margin-left: 10%;
+  margin-top: -13px;
+  position: absolute;
+}
