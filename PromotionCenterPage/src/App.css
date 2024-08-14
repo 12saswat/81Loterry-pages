@@ -1,0 +1,266 @@
+body {
+  background: rgb(26, 25, 25);
+  font-family: PingFang SC;
+  height: calc(var(--vh, 1vh) * 100);
+}
+
+.upBody {
+  width: 100%;
+  padding-bottom: 15%;
+  background-color: #00ff6d;
+}
+.upBody center {
+  padding-top: 1rem;
+  color: white;
+  font-weight: 1000;
+  font-size: 25px;
+}
+
+.table1 {
+  width: 25%;
+  height: 20%;
+  min-width: 20%;
+  background-color: #3c873865;
+  margin-top: -11rem;
+  padding-bottom: 2rem;
+  padding-left: 1rem;
+  padding-right: 0px;
+
+  color: #ffffff;
+  border-radius: 10px 10px 0px 0px;
+  top: 74px;
+}
+.table2 {
+  width: 26%;
+  min-width: 40px;
+  background-color: #3c8738c9;
+  margin-left: 0rem;
+  padding: 0px 2rem 1rem 2rem;
+  color: #ffffff;
+  border-radius: 10px;
+  line-height: 35px;
+}
+.InviteBtn {
+  width: 30%;
+  padding: 13px;
+  min-width: 100px;
+  margin-left: 0.8%;
+  margin-top: 26px;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #ffffff, #26ff00);
+}
+.InviteBtn:hover {
+  background: rgb(85, 104, 85);
+  cursor: pointer;
+}
+
+.copyLC {
+  background-color: rgba(36, 34, 34, 0.304);
+  width: 445px;
+  height: 38px;
+  min-width: 100px;
+  font-size: 15px;
+  color: white;
+  font-weight: 400;
+  margin-left: 1rem;
+  line-height: 1rem;
+  margin-top: -10px;
+}
+.imgs1 {
+  height: 37px;
+  width: 39px;
+  position: relative;
+  left: -2px;
+}
+.btns1 {
+  width: 456px;
+  background-color: rgb(43, 40, 40);
+  height: 59px;
+  min-width: 100px;
+  font-size: 15px;
+  color: white;
+  font-weight: 400;
+  margin-top: 1rem;
+  margin-left: 1rem;
+
+  text-align: left;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.txt {
+  color: white;
+  font-weight: 700;
+  font-size: 17px;
+  position: absolute;
+  padding-top: 0.5rem;
+  padding-left: 11px;
+}
+.imgs2 {
+  height: 37px;
+  width: 39px;
+  position: relative;
+  left: -2px;
+}
+.btns2 {
+  width: 456px;
+  background-color: rgb(43, 40, 40);
+  height: 59px;
+  min-width: 5px;
+  font-size: 15px;
+  color: white;
+  font-weight: 400;
+  margin-top: 1rem;
+  margin-left: 1rem;
+
+  text-align: left;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.imgs3 {
+  height: 37px;
+  width: 39px;
+  position: relative;
+  left: -2px;
+}
+.btns3 {
+  width: 456px;
+  background-color: rgb(43, 40, 40);
+  height: 59px;
+  min-width: 50px;
+  font-size: 15px;
+  color: white;
+  font-weight: 400;
+  margin-top: 1rem;
+  margin-left: 1rem;
+
+  text-align: left;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.imgs4 {
+  height: 37px;
+  width: 39px;
+  position: relative;
+  left: -2px;
+}
+.btns4 {
+  width: 456px;
+  background-color: rgb(43, 40, 40);
+  height: 59px;
+  min-width: 50px;
+  font-size: 15px;
+  color: white;
+  font-weight: 400;
+  margin-top: 1rem;
+  margin-left: 1rem;
+
+  text-align: left;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.imgs5 {
+  height: 37px;
+  width: 39px;
+  position: relative;
+  left: -2px;
+}
+.btns5 {
+  width: 456px;
+  background-color: rgb(43, 40, 40);
+  height: 59px;
+  min-width: 50px;
+  font-size: 15px;
+  color: white;
+  font-weight: 400;
+  margin-top: 1rem;
+  margin-left: 1rem;
+
+  text-align: left;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.imgs6 {
+  height: 37px;
+  width: 39px;
+  position: relative;
+  left: -2px;
+}
+.btns6 {
+  width: 456px;
+  background-color: rgb(43, 40, 40);
+  height: 59px;
+  min-width: 50px;
+  font-size: 15px;
+  color: white;
+  font-weight: 400;
+  margin-top: 1rem;
+  margin-left: 1rem;
+
+  text-align: left;
+  cursor: pointer;
+  border-radius: 6px;
+}
+.imgs7 {
+  height: 37px;
+  width: 39px;
+  position: relative;
+  left: -2px;
+}
+.btns7 {
+  width: 456px;
+  background-color: rgb(43, 40, 40);
+  height: 59px;
+  min-width: 50px;
+  font-size: 15px;
+  color: white;
+  font-weight: 400;
+  margin-top: 1rem;
+  margin-left: 1rem;
+
+  text-align: left;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.arrow {
+  padding-left: 82%;
+  padding-bottom: 0.5rem;
+}
+.Footerbtn1 {
+  height: 10%;
+  width: 40%;
+  color: #ffffff;
+  display: flex;
+  gap: 5rem;
+  padding-left: 10%;
+  padding-top: 1rem;
+}
+.Footerbtn2 {
+  height: 10%;
+  width: 40%;
+  color: #ffffff;
+  display: flex;
+  gap: 3rem;
+  padding-left: 14%;
+  padding-top: 3rem;
+}
+.fbtn1 {
+  height: 61px;
+  width: 140px;
+  font-size: 26px;
+
+  /* padding: 1rem 1rem 1rem 0rem;
+  margin: 1rem 6rem 1rem -10rem; */
+
+  /* background: url(/public/ftr11.jpg) no-repeat; */
+}
+.fimg {
+  height: 86px;
+  width: 196px;
+  border-radius: 10px;
+}
+.ftxt {
+  padding-left: 0.8rem;
+  font-size: small;
+  font-weight: 600;
+}

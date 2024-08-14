@@ -1,0 +1,93 @@
+body {
+  background-color: rgb(8, 8, 8);
+  color: white;
+  padding: 0px;
+  margin: 0px;
+  min-width: 20%;
+}
+.ttlPage {
+  height: 100%;
+  width: 35%;
+  min-width: 300px;
+}
+.Overview {
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  border-radius: 10px 10px 0px 0px;
+  background-image: linear-gradient(to right, rgba(166, 66, 66, 0.269), black);
+  padding-left: 1rem;
+  margin-top: 1rem;
+}
+.game {
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  border-radius: 10px 10px 0px 0px;
+  background-image: linear-gradient(to right, rgba(41, 89, 161, 0.269), black);
+  padding-left: 1rem;
+  margin-top: 1rem;
+}
+.pocketGame {
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  border-radius: 10px 10px 0px 0px;
+  background-image: linear-gradient(to right, rgba(41, 89, 161, 0.269), black);
+  padding-left: 1rem;
+  margin-top: 1rem;
+}
+.PragmaticPlay {
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  border-radius: 10px 10px 0px 0px;
+  background-image: linear-gradient(to right, rgba(41, 89, 161, 0.269), black);
+  padding-left: 1rem;
+  margin-top: 1rem;
+}
+.Arcade {
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  border-radius: 10px 10px 0px 0px;
+  background-image: linear-gradient(to right, rgba(41, 89, 161, 0.269), black);
+  padding-left: 1rem;
+  margin-top: 1rem;
+}
+.Live {
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  border-radius: 10px 10px 0px 0px;
+  background-image: linear-gradient(to right, rgba(41, 89, 161, 0.269), black);
+  padding-left: 1rem;
+  margin-top: 1rem;
+}
+.Ezugi {
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  border-radius: 10px 10px 0px 0px;
+  background-image: linear-gradient(to right, rgba(41, 89, 161, 0.269), black);
+  padding-left: 1rem;
+  margin-top: 1rem;
+}
+.tables {
+  text-align: center;
+  line-height: 20px;
+  border-radius: 0px 0px 10px 10px;
+  background-color: #181e25;
+}
+table td {
+  padding-top: 1rem;
+}
+
+.values {
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.244);
+}
+.imgs {
+  height: 33px;
+  width: 41px;
+}
